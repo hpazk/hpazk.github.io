@@ -1,4 +1,3 @@
-### Welcome to GitHub Pages
 
 Task 1 : [Curriculum Vitae] https://hpazk.github.io/resume.html
 
@@ -9,6 +8,10 @@ Task 3: [About Merge Conflicts] https://hpazk.github.io/about-merge-conflicts.ht
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/hpazk/hpazk.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+
+- [x] Task 1 : [Curriculum Vitae](https://hpazk.github.io/resume.html) 
+- [x] Task 2 : [Git and Github Summary](https://hpazk.github.io/git-github-summary.html) 
+- [x] Task 3 : [About Merge Conflicts](https://hpazk.github.io/about-merge-conflicts.html) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
