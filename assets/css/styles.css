@@ -187,6 +187,11 @@ footer {
     position: relative;
 }
 
+.hero span {
+    display: inline-block;
+    margin-top: 20px;
+}
+
 h1.name {
     font-size: 70px;
     font-weight: 300;
