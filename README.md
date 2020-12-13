@@ -1,6 +1,4 @@
-## Talent Factory Batch 1 - Backend
-
-### Task01
+## Task01 - Talent Factory Batch 1 - Backend
 
 - [x] Task 1 : [Curriculum Vitae](https://hpazk.github.io/resume.html) 
 - [x] Task 2 : [Git and Github Summary](https://hpazk.github.io/git-github-summary.html) 
