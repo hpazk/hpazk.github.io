@@ -233,6 +233,13 @@ h1.name {
     line-height: 55px;
 }
 
+.task {
+    font-size: 30px;
+    font-weight: 200;
+    margin-top: 60px;
+    line-height: 55px;
+}
+
 
 /*hero ends*/
 
@@ -479,6 +486,13 @@ li .description {
 
 
 /*timeline ends*/
+
+
+/* image */
+
+img {
+    width: 500px;
+}
 
 
 /* Media queries*/
